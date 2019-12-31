@@ -17,7 +17,7 @@ Windows with a colorful glass.
 Iranian yard
 Haft sin Table
 Pomegranate (ANAR in Persian) which is also the name of game
-All the asset used in this game is created from scratched, thank to my friend [Fatemeh Saleh](https://www.instagram.com/gollpad/) who Illustrate all illustrations especially for this game. 
+All the asset used in this game is created from scratched, thank to my friend [Fatemeh Saleh](https://www.instagram.com/gollpad/) who created all illustrations especially for this game. 
 
 *This game is a part of the course ["Développement de jeux vidéo 2D"](https://github.com/ipante/ressources_cours_jeux_video_2D/blob/master/README.md) under the supervision of M. Isaac Pante(SA2019)*.
 
