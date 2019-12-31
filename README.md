@@ -1,5 +1,5 @@
 # Jeu video
-The name of this game is *ANAR* which means pomegranate in Perisan
+The name of this game is *ANAR* which means pomegranate in Perisan. It is a 2D game that is created in Untiy.
 The purpose of game is to learn Persian language through the symbolic elements related of Iranian culture and tradition.
 ## Structure
 This game suggests learning the basics Persian language in 4 level. 
